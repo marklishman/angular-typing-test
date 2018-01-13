@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+
+button {
+  height: 25px;
+  width: 80px;
+}
+
+.half-size {
+  font-size: 50%;
+}
