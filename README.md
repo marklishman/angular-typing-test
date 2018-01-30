@@ -2,4 +2,4 @@
 
 A simple example of a typing test written in Angular.
 
-Used by [lishman.io](http://lishman.io)
+Used by examples and tutorials on [lishman.io](http://lishman.io).
