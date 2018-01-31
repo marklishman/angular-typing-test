@@ -1,4 +1,4 @@
-# AngularTypingTest
+# angular-typing-test
 
 A simple example of a typing test written in Angular.
 
